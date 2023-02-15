@@ -2,4 +2,6 @@
     <string name="app_name">ConstructLayout</string>
     <string name="email">E-mail</string>
     <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="phrase_sign">Ainda não é cadastrado? Cadastre-se!</string>
 </resources>
